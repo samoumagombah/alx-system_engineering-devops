@@ -1,2 +1,0 @@
-#!/bin/bash
-printf %0.2fn $NUM
