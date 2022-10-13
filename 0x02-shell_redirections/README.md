@@ -1,1 +1,1 @@
-Replace all characters A and c from input to Z and e respectively
+Display lines containing the pattern “root” from the file /etc/passwd
