@@ -1,1 +1,1 @@
-Display all lines of the file /etc/ssh/sshd_config starting with a letter
+Write a command that finds all empty files and directories in the current directory and all sub-directories
