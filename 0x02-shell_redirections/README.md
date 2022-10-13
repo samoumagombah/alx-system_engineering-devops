@@ -1,1 +1,1 @@
-Display the content of the /etc/passwd file
+Write a script that reverse its input
