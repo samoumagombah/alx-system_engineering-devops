@@ -1,1 +1,1 @@
-Write a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders
+Create a script that decodes acrostics that use the first letter of each line
