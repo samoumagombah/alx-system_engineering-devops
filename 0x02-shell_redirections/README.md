@@ -1,1 +1,1 @@
-Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories
+Display the content of /etc/passwd and /etc/hosts
